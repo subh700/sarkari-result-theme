@@ -1,0 +1,317 @@
+/*
+Theme Name: SMART JOB Theme
+Theme URI: https://www.phpmysql.in/
+Author: SUBHAM KUMAR
+Author URI: https://www.phpmysql.in/
+Description: The 2019 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small.
+Version: 1.0
+*/
+
+body{
+	font-family:Arial,Helvetica,sans-serif;
+	width:100%
+	}
+#header{
+	height:150px;
+	width:75%;
+	background-color:#0000CD;
+	margin-top:5px;
+	border:1px solid #000
+	}
+#head-title{
+	padding-top:40px;
+	font-weight:700;
+	font-size:45px;
+	color:#fff
+	}
+#heading{
+	background-color:#ff4da6;
+	height:35px;
+	color:#fff;
+	font-weight:700;
+	font-size:25px
+	}
+#menu ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	width:75%;
+	margin-top:-1px
+	}
+#menu ul li{
+	display:inline-block;
+	float:left;
+	background-color:#000;
+	height:40px
+	}
+#menu ul li{
+	display:inline-block;
+	float:left;
+	display:block
+	}
+#menu ul li a{
+	display:block;
+	width:100px;
+	color:#fff;
+	padding-top:4px
+	}
+#box1{
+	height:800px;
+	width:300px;
+	border:1px;
+	border-style:groove;
+	border-color:#360;
+	background-color:#fff;
+	border:2px solid #00ff80
+	}
+#box2{
+	height:300px;
+	width:300px;
+	border:1px;
+	border-style:groove;
+	border-color:#360;
+	background-color:#fff;
+	border:2px solid #006633
+	}
+#box3{
+	height:600px;
+	width:300px;
+	border:1px;
+	border-style:groove;
+	border-color:#360;
+	background-color:#fff;
+	border:2px solid #b3ffd9
+	}
+table td{
+	width:25%
+	}
+#post ul li a{
+	line-height:1.8px
+	}
+#marquee1{
+	width:75%
+	}
+#image1{
+	height:60px;
+	width:245px;
+	background-color:#868a08;
+	font-size:20px;
+	color:#fff;
+	font-weight:700
+	}
+#image1 a{
+	height:60px;
+	width:245px;
+	background-color:#868a08;
+	font-size:20px;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none
+	}
+#image2{
+	height:60px;
+	width:245px;
+	background-color:#0404b4;
+	font-size:x-large;
+	color:#fff;
+	font-weight:700
+	}
+#image2 a{
+	height:60px;
+	width:245px;
+	background-color:#0404b4;
+	font-size:x-large;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none
+	}
+#image3{
+	height:60px;
+	width:245px;
+	background-color:#fb5e03;
+	font-size:x-large;
+	color:#fff;
+	font-weight:700
+	}
+#image3 a{
+	height:60px;
+	width:245px;
+	background-color:#fb5e03;
+	font-size:x-large;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none
+	}
+#image4{
+	height:60px;
+	width:245px;
+	background-color:#8c0101;
+	font-size:x-large;
+	color:#fff;
+	font-weight:700
+	}
+#image4 a{
+	height:60px;
+	width:245px;
+	background-color:#8c0101;
+	font-size:x-large;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none
+	}
+#image5{
+	height:60px;
+	width:245px;
+	background-color:#fb0303;
+	font-size:20px;
+	color:#fff;
+	font-weight:700
+	}
+#image5 a{
+	height:60px;
+	width:245px;
+	background-color:#fb0303;
+	font-size:20px;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none
+	}
+#image6{
+	height:60px;
+	width:245px;
+	background-color:#0b610b;
+	font-size:20px;
+	color:#fff;
+	font-weight:700
+	}
+#image6 a{
+	height:60px;
+	width:245px;
+	background-color:#0b610b;
+	font-size:20px;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none
+	}
+#image7{
+	height:60px;
+	width:245px;
+	background-color:#ff00bf;
+	font-size:20px;
+	color:#fff;
+	font-weight:700
+	}
+#image7 a{
+	height:60px;
+	width:245px;
+	background-color:#ff00bf;
+	font-size:20px;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none
+	}
+#image8{
+	height:60px;
+	width:245px;
+	background-color:#0080ff;
+	font-size:20px;
+	color:#fff;
+	font-weight:700
+	}
+#image8 a{
+	height:60px;
+	width:245px;
+	background-color:#0080ff;
+	font-size:20px;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none
+	}
+#facebook{
+	align:center;
+	border:1px groove;
+	width:70%;
+	height:37px;
+	width:350px;
+	background-color:#ff4da6;
+	font-size:x-large;
+	font-color:#fff;
+	font-weight:700
+	}
+#view{
+	padding-top:4px;
+	font-size:18px;
+	font-weight:700;
+	color:#0000a0
+	}
+#view a{
+	padding-top:4px;
+	font-size:18px;
+	font-weight:700;
+	margin-left:180px;
+	color:#0000a0;
+	text-decoration:none
+	}
+#matter{
+	color:red;
+	font-size:17px;
+	text-align:center
+	}
+#wrap{
+	width:75%;
+	height:50px;
+	margin:0;
+	z-index:99;
+	position:relative;
+	background-color:#ff4da6
+	}
+.navbar{
+	height:50px;
+	padding:0;
+	margin:0;
+	position:absolute;
+	border-right:1px solid #54879d
+	}
+.navbar li{
+	height:30px;
+	width:120px;
+	float:left;
+	text-align:center;
+	list-style:none;
+	font:normal bold 14px/1.2em Arial,Verdana,Helvetica;
+	padding:0;
+	margin:0;
+	background-color:#000
+	}
+.navbar a{
+	padding:18px 0;
+	border-left:1px solid #fff;
+	border-right:1px solid #000;
+	text-decoration:none;
+	color:#fff;
+	display:block
+	}
+.navbar li ul{
+	display:none;
+	height:auto;
+	margin:0;
+	padding:0;
+	color:#fff
+	}
+.navbar li:hover ul{
+	display:block
+	}
+.navbar li ul li{
+	background-color:#000;
+	height:55px;
+	margin-top:-8px
+	}
+.navbar li ul li a{
+	border-left:1px solid #1f5065;
+	border-right:1px solid #1f5065;
+	border-top:1px solid #74a3b7;
+	border-bottom:1px solid #1f5065
+	}
+.navbar li ul li a:hover{
+	background-color:#366b82
+	}
